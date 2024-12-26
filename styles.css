@@ -1,2 +1,16 @@
-
+*{box-sizing:border-box;}
+table,tr,td,th{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+table{
+	width:100%;
+	margin: 20px auto;
+}
+/* td{
+	text-align:right;
+} */
+th{
+	text-align:left;
+}
 /* Your CSS Code here. */
